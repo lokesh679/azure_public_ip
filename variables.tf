@@ -8,7 +8,7 @@ variable "name" {
 }
 variable "allocation" { 
   description  = "Possible Values are Static or Dynamic"
-  default      = "cloud-security-rule"
+  default      = "Static"
 }
 variable "ip_version"{
   description  = "Version of the Public IP"
