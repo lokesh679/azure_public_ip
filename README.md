@@ -1,2 +1,4 @@
 # azure_public_ip
-Creation of Public IP using terraform in azure
+This is to create azure Public IP address using variables which are declared in variables.tf.
+And the created resource values are stored in the output.tf file 
+
